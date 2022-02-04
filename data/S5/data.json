@@ -1,0 +1,23 @@
+
+{
+  "_aggregated": false,
+  "_constructed": true,
+  "gamma": 1,
+  "gamma_file": null,
+  "Loading_periods": 2,
+  "CostDistance": 0.005,
+  "cost1": 1,
+  "cost2": 1,
+  "_M": 45,
+    "YC": 200,
+  "block_size": 5,
+  "_yard_column": 3,
+  "T": 21,
+  "V": 20,
+  "Capacity": 240,
+  "Berth": 1000,
+  "KS_I": 6,
+  "KS_N": 7,
+  "Schedule": "range(1,21)",
+  "eval_items":["Schedule"]
+}
