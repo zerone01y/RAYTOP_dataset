@@ -1,0 +1,21 @@
+
+{
+  "_aggregated": false,
+  "_constructed": true,
+  "gamma": 3,
+  "gamma_file": null,
+  "Loading_periods": 4,
+  "CostDistance": 0.005,
+  "cost1": 1,
+  "cost2": 1,
+  "_M": 22.5,
+  "YC": 100,
+  "block_size": 5,
+  "_yard_column": 2,
+  "T": 12,
+  "V": 3,
+  "Capacity": 240,
+  "KS_I": 4,
+  "KS_N": 2,
+  "Schedule": [1,5,10]
+}
